@@ -17,4 +17,22 @@ Arquitetura
 + Lombok
 + Twitter4J
 
-
+Lista para testes no Postman
+=============================
+{
+	"opcao": [
+			{
+				"descricao": "Brasil"
+			},												
+			{
+				"descricao": "Alemanha"
+			},
+			{
+				"descricao": "França"
+			}	
+		],
+		"titulo": "Quem você acredita que será o campeão da copa do mundo da Fifa de 2018?",
+		"dataInicio": "2020-03-03",
+		"dataFim": "2020-03-06",
+		"email": "seu.email@gmail.com"
+}	
